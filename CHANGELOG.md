@@ -1,6 +1,6 @@
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="">0.5.0</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.5.0</a>
 </h2></summary><br>
 
 - Additions
@@ -28,7 +28,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="">0.4.0</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.4.0</a>
 </h2></summary><br>
 
 - Additions
@@ -56,7 +56,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="">0.3.1</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.3.1</a>
 </h2></summary><br>
 
 - Additions
@@ -84,7 +84,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="">0.3.0</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.3.0</a>
 </h2></summary><br>
 
 - Additions
@@ -112,7 +112,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="">0.2.0</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.2.0</a>
 </h2></summary><br>
 
 - Additions
