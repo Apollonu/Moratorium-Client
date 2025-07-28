@@ -15,8 +15,12 @@
     - AdditionalNetworking - [2.2.2](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.2.2) -> [2.3.1](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.3.1)
     - EnemySoundFixes - [1.8.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.0) -> [1.8.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.1)
     - EntranceTeleportOptimizations - [0.0.3](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.3) -> [0.0.5](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.5)
+    - GoodItemScan - [1.13.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.13.0) -> [1.14.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.14.0)
+    - LobbyImprovements - [1.0.9](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/v/1.0.9) -> [1.1.1](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/v/1.1.1)
     - LethalPerformance - [1.1.6](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.6) -> [1.1.7](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.7)
+    - LobbyControl - [2.5.8](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/v/2.5.8) -> [2.5.9](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/v/2.5.9)
     - No Console Spam - [1.7.0](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/v/1.7.0) -> [1.8.0](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/v/1.8.0)
+    - SpiderPositionFix - [1.5.1](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.2)
     - ReXuvination - [1.0.2](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.0.2) -> [1.1.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.1.0)
   - Configs
     - none
