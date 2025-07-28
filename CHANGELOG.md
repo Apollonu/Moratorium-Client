@@ -33,16 +33,32 @@
 
 - Additions
   - Mods
-    - none
+    - BarberMaterialTweaks - [1.1.1](https://thunderstore.io/c/lethal-company/p/dopadream/BarberMaterialTweaks/v/1.1.1)
+    - BetterEXP - [2.6.2](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/v/2.6.2)
+    - DynamicJesterCrank - [1.0.2](https://thunderstore.io/c/lethal-company/p/Piggy/DynamicJesterCrank/v/1.0.2)
+    - EnhancedTweaks - [1.0.4](https://thunderstore.io/c/lethal-company/p/lukeprime/EnhancedTweaks/v/1.0.4)
+    - GoodItemScan - [1.13.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.13.0)
+    - JesterStompShake - [1.0.11](https://thunderstore.io/c/lethal-company/p/Piggy/JesterStompShake/v/1.0.11)
+    - MaskFixes - [1.3.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/v/1.3.1)
+    - Piggys Reanimation - [1.0.0](https://thunderstore.io/c/lethal-company/p/Piggy/Piggys_Reanimation/v/1.0.0)
+    - RevisitStingers - [1.3.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/RevisitStingers/v/1.3.0)
+    - TalkingHeads - [1.0.0](https://thunderstore.io/c/lethal-company/p/BomBom/TalkingHeads/v/1.0.0)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
   - Modpack
     - none
   - Mods
-    - none
+    - LethalPerformance - [1.1.3](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.3) -> [1.1.5](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.5)
+    - MeleeFixes - 1.4.0 -> MeleeFixes - 1.4.1
+    - ReXuvination - 0.1.1 -> 0.3.0
+    - WeedKillerFixes - 1.1.1 -> 1.1.2
   - Configs
-    - none
+    - CruiserImproved (Seat boost 0.1)
+    - EnhancedTweaks (FireExits, Quota Time, Seed Number)
+    - Loadstone (Loadtime)
+    - MaskFixes (Random, Tragedy)
+    - TalkingHeads - (Size)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
