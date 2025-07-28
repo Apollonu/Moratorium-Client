@@ -1,6 +1,6 @@
 <details close>
 <summary><h2>
-  Template Version - <a href="">0.6.0</a> (Nightly)
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.6.0</a> (Nightly)
 </h2></summary><br>
 
 - Additions
