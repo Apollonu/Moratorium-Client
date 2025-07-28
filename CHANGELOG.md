@@ -13,6 +13,7 @@
     - none
   - Mods
     - AdditionalNetworking - [2.2.2](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.2.2) -> [2.3.1](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.3.1)
+    - ButteryFixes - [1.14.2](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/v/1.14.2) -> [1.14.7](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/v/1.14.7)
     - Chameleon - [2.1.2](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/v/2.1.2) -> [2.2.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/v/2.2.0)
     - CruiserImproved - [1.5.0](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.0) -> [1.5.1](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.1)
     - EnemySoundFixes - [1.8.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.0) -> [1.8.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.1)
@@ -27,6 +28,7 @@
     - SpiderPositionFix - [1.5.1](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.2)
     - ReXuvination - [1.0.2](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.0.2) -> [1.1.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.1.0)
   - Configs
+    - [ButterFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes) (Update)
     - [Chameleon](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon) (Update)
     - [CruiserImproved](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved) (Update)
     - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements) (Update)
