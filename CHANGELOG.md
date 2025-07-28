@@ -5,25 +5,30 @@
 
 - Additions
   - Mods
-    - none - 0.0.0
+    - none
   - Resourcepacks / Shaderpacks
-    - none - 0.0.0
+    - none
 - Updates
   - Modpack
-    - none 0.0.0 -> 0.0.0
+    - none
   - Mods
-    - none 0.0.0 -> 0.0.0
+    - AdditionalNetworking - [2.2.2](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.2.2) -> [2.3.1](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.3.1)
+    - EnemySoundFixes - [1.8.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.0) -> [1.8.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.1)
+    - EntranceTeleportOptimizations - [0.0.3](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.3) -> [0.0.5](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.5)
+    - LethalPerformance - [1.1.6](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.6) -> [1.1.7](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.7)
+    - No Console Spam - [1.7.0](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/v/1.7.0) -> [1.8.0](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/v/1.8.0)
+    - ReXuvination - [1.0.2](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.0.2) -> [1.1.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.1.0)
   - Configs
-    - none (?)
+    - none
   - Resourcepacks / Shaderpacks
-    - none 0.0.0 -> 0.0.0
+    - none
 - Fixes
   - none
 - Reverts / Removals
   - Reverts
     - none
   - Removals
-    - none
+    - [Orbits](https://thunderstore.io/c/lethal-company/p/fiufki/Orbits) (Disabled)
 </details>
 
 <details close>
