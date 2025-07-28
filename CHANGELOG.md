@@ -20,11 +20,13 @@
     - LobbyImprovements - [1.0.9](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/v/1.0.9) -> [1.1.1](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/v/1.1.1)
     - LethalPerformance - [1.1.6](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.6) -> [1.1.7](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.7)
     - LobbyControl - [2.5.8](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/v/2.5.8) -> [2.5.9](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/v/2.5.9)
+    - MaskFixes - [1.4.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/v/1.4.0) -> [1.4.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/v/1.4.1)
     - No Console Spam - [1.7.0](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/v/1.7.0) -> [1.8.0](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/v/1.8.0)
     - SpiderPositionFix - [1.5.1](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.2)
     - ReXuvination - [1.0.2](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.0.2) -> [1.1.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.1.0)
   - Configs
     - [Chameleon](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon) (Update)
+    - MaskFixes
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
