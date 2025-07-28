@@ -28,7 +28,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.5.0</a> (Current Release) (Modern Template)
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.5.0</a> (Current Release, Modern Template)
 </h2></summary><br>
 
 - Additions
