@@ -1,5 +1,5 @@
 # Moratorium Client
-I will be releasing 2 more modpacks, one the builds off of the 2nd. The next one will only enhance, fix and improve existing features or ones that meld well with vanilla lethal company.
-After which, I will be going all out in features on the 3rd, just as I have done with my minecraft modpacks. Maybe i'll connect all of these platforms together sometime for anyone interested in modpacks for other games.
+This is the client version or [Moratorium](https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium), which will be the base of another modpack. This will only enhance, fix and improve features that are vanilla compatible. This is pretty much the [Abaddon Client](https://www.curseforge.com/minecraft/modpacks/abaddon-client) equivalent for lethal company.
+You can download [Moratorium Client](https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client) on Thunderstore, others are not allowed to distribute, modify or release files from the modpack in any manner, unto others.
 # Changelogs
-I like my [changelogs](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) to be extensive, if there are any errors for some reason, make a Pull request and I will fix it. Do not abuse the Pull request for any reason whatsoever.
+I like my [changelogs](https://github.com/Apollonu/Moratorium-Client/blob/main/CHANGELOG.md) to be extensive, if there are any errors for some reason, make a Pull request and I will fix it. Do not abuse the Pull request for any reason whatsoever.
