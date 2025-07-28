@@ -1,22 +1,22 @@
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.5.0</a>
+  Template Version - <a href="">0.6.0</a> (Nightly)
 </h2></summary><br>
 
 - Additions
   - Mods
-    - none
+    - none - 0.0.0
   - Resourcepacks / Shaderpacks
-    - none
+    - none - 0.0.0
 - Updates
   - Modpack
-    - none
+    - none 0.0.0 -> 0.0.0
   - Mods
-    - none
+    - none 0.0.0 -> 0.0.0
   - Configs
-    - none
+    - none (?)
   - Resourcepacks / Shaderpacks
-    - none
+    - none 0.0.0 -> 0.0.0
 - Fixes
   - none
 - Reverts / Removals
@@ -28,41 +28,57 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.4.0</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.5.0</a> (Current Release) (Modern Template)
 </h2></summary><br>
 
 - Additions
   - Mods
-    - BarberMaterialTweaks - [1.1.1](https://thunderstore.io/c/lethal-company/p/dopadream/BarberMaterialTweaks/v/1.1.1)
-    - BetterEXP - [2.6.2](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/v/2.6.2)
-    - DynamicJesterCrank - [1.0.2](https://thunderstore.io/c/lethal-company/p/Piggy/DynamicJesterCrank/v/1.0.2)
-    - EnhancedTweaks - [1.0.4](https://thunderstore.io/c/lethal-company/p/lukeprime/EnhancedTweaks/v/1.0.4)
-    - GoodItemScan - [1.13.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.13.0)
-    - JesterStompShake - [1.0.11](https://thunderstore.io/c/lethal-company/p/Piggy/JesterStompShake/v/1.0.11)
-    - MaskFixes - [1.3.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/v/1.3.1)
-    - Piggys Reanimation - [1.0.0](https://thunderstore.io/c/lethal-company/p/Piggy/Piggys_Reanimation/v/1.0.0)
-    - RevisitStingers - [1.3.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/RevisitStingers/v/1.3.0)
-    - TalkingHeads - [1.0.0](https://thunderstore.io/c/lethal-company/p/BomBom/TalkingHeads/v/1.0.0)
+    - Celestial Tint - [1.5.2](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/v/1.5.2)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
   - Modpack
     - none
   - Mods
-    - LethalPerformance - [1.1.3](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.3) -> [1.1.5](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.5)
-    - MeleeFixes - 1.4.0 -> MeleeFixes - 1.4.1
-    - ReXuvination - 0.1.1 -> 0.3.0
-    - WeedKillerFixes - 1.1.1 -> 1.1.2
+    - No Console Spam - [1.6.0](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/v/1.6.0) -> [1.7.0](https://thunderstore.io/c/lethal-company/p/4902/No_Console_Spam/v/1.7.0)
+    - ReXuvination - [0.3.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/0.3.0) -> [0.4.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/0.4.0)
   - Configs
-    - CruiserImproved (Seat boost 0.1)
-    - EnhancedTweaks (FireExits, Quota Time, Seed Number)
-    - Loadstone (Loadtime)
-    - MaskFixes (Random, Tragedy)
-    - TalkingHeads - (Size)
+    - [Chameleon](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/) (Planet preview)
+    - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) (Scroll Delay, Monitors)
+    - [MaskFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/) (Random Suit)
+    - [QuotaCount](https://thunderstore.io/c/lethal-company/p/frare/QuotaCount/) (Monitor)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
   - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - [SuitFix](https://thunderstore.io/c/lethal-company/p/Ashk3000/SuitFix)
+</details>
+
+<details close>
+<summary><h2>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.4.0</a>
+</h2></summary><br>
+
+ Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - QuotaCount - [1.1.5](https://thunderstore.io/c/lethal-company/p/frare/QuotaCount/v/1.1.5)
+  - Configs
+    - [QuotaCount](https://thunderstore.io/c/lethal-company/p/frare/QuotaCount)
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - None
 - Reverts / Removals
   - Reverts
     - none
@@ -90,7 +106,7 @@
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - none
+  - Changelog Fix
 - Reverts / Removals
   - Reverts
     - none
@@ -105,16 +121,32 @@
 
 - Additions
   - Mods
-    - none
+    - BarberMaterialTweaks - [1.1.1](https://thunderstore.io/c/lethal-company/p/dopadream/BarberMaterialTweaks/v/1.1.1)
+    - BetterEXP - [2.6.2](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/v/2.6.2)
+    - DynamicJesterCrank - [1.0.2](https://thunderstore.io/c/lethal-company/p/Piggy/DynamicJesterCrank/v/1.0.2)
+    - EnhancedTweaks - [1.0.4](https://thunderstore.io/c/lethal-company/p/lukeprime/EnhancedTweaks/v/1.0.4)
+    - GoodItemScan - [1.13.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.13.0)
+    - JesterStompShake - [1.0.11](https://thunderstore.io/c/lethal-company/p/Piggy/JesterStompShake/v/1.0.11)
+    - MaskFixes - [1.3.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/v/1.3.1)
+    - Piggys Reanimation - [1.0.0](https://thunderstore.io/c/lethal-company/p/Piggy/Piggys_Reanimation/v/1.0.0)
+    - RevisitStingers - [1.3.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/RevisitStingers/v/1.3.0)
+    - TalkingHeads - [1.0.0](https://thunderstore.io/c/lethal-company/p/BomBom/TalkingHeads/v/1.0.0)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
   - Modpack
     - none
   - Mods
-    - none
+    - LethalPerformance - [1.1.3](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.3) -> [1.1.5](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.5/)
+    - MeleeFixes - [1.4.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MeleeFixes/v/1.4.0) -> [1.4.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MeleeFixes/v/1.4.1)
+    - ReXuvination - [0.1.1](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/0.1.1) -> [0.3.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/0.3.0)
+    - WeedKillerFixes - [1.1.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/WeedKillerFixes/v/1.1.1) -> [1.1.2](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/WeedKillerFixes/v/1.1.2)
   - Configs
-    - none
+    - [CruiserImproved](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved) (Seat boost 0.1)
+    - [EnhancedTweaks](https://thunderstore.io/c/lethal-company/p/lukeprime/EnhancedTweaks) (FireExits, Quota Time, Seed Number)
+    - [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone) (Loadtime)
+    - [MaskFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes) (Random, Tragedy)
+    - [TalkingHeads](https://thunderstore.io/c/lethal-company/p/BomBom/TalkingHeads) (Size)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
