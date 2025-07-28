@@ -13,6 +13,7 @@
     - none
   - Mods
     - AdditionalNetworking - [2.2.2](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.2.2) -> [2.3.1](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.3.1)
+    - Chameleon - [2.1.2](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/v/2.1.2) -> [2.2.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/v/2.2.0)
     - EnemySoundFixes - [1.8.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.0) -> [1.8.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.1)
     - EntranceTeleportOptimizations - [0.0.3](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.3) -> [0.0.5](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.5)
     - GoodItemScan - [1.13.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.13.0) -> [1.14.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.14.0)
@@ -23,7 +24,7 @@
     - SpiderPositionFix - [1.5.1](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.2)
     - ReXuvination - [1.0.2](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.0.2) -> [1.1.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.1.0)
   - Configs
-    - none
+    - [Chameleon](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon) (Update)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
