@@ -28,7 +28,7 @@
     - SpiderPositionFix - [1.5.1](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.1) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/v/1.5.2)
     - ReXuvination - [1.0.2](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.0.2) -> [1.1.0](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/v/1.1.0)
   - Configs
-    - [ButterFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes) (Update)
+    - [ButteryFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes) (Update, Ladder)
     - [Chameleon](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon) (Update)
     - [CruiserImproved](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved) (Update)
     - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements) (Update)
