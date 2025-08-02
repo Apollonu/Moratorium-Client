@@ -226,7 +226,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - 0.1.0
+  Moratorium Client - 0.1.0 (Unreleased)
 </h2></summary><br>
 
 - Additions
