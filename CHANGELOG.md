@@ -1,6 +1,6 @@
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.6.0</a> (Nightly)
+  Moratorium Client - <a href="">0.6.0</a> (Nightly)
 </h2></summary><br>
 
 - Additions
@@ -47,7 +47,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.5.0</a> (Current Release, Modern Template)
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/v/0.5.0">0.5.0</a> (Current Release, Modern Template)
 </h2></summary><br>
 
 - Additions
@@ -79,7 +79,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.4.0</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/v/0.4.0">0.4.0</a>
 </h2></summary><br>
 
  Additions
@@ -107,7 +107,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.3.1</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/v/0.3.1">0.3.1</a>
 </h2></summary><br>
 
 - Additions
@@ -135,7 +135,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.3.0</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/v/0.3.0">0.3.0</a>
 </h2></summary><br>
 
 - Additions
@@ -179,7 +179,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.2.0</a>
+  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/v/0.2.0">0.2.0</a>
 </h2></summary><br>
 
 - Additions
@@ -226,7 +226,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium Client - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client/versions">0.1.0</a>
+  Moratorium Client - 0.1.0
 </h2></summary><br>
 
 - Additions
