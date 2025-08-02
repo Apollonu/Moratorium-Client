@@ -20,6 +20,7 @@
     - EntranceTeleportOptimizations - [0.0.3](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.3) -> [0.0.5](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.5)
     - GeneralImprovements - [1.4.11](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/v/1.4.11) -> [1.4.13](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/v/1.4.13)
     - GoodItemScan - [1.13.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.13.0) -> [1.14.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/GoodItemScan/v/1.14.0)
+    - Loadstone - [0.1.22](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/v/0.1.22) -> [0.1.23](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/v/0.1.23)
     - LobbyImprovements - [1.0.9](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/v/1.0.9) -> [1.1.1](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/v/1.1.1)
     - LethalPerformance - [1.1.6](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.6) -> [1.1.7](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.7)
     - LobbyControl - [2.5.8](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/v/2.5.8) -> [2.5.9](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/v/2.5.9)
