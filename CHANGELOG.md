@@ -42,6 +42,7 @@
   - Reverts
     - none
   - Removals
+    - [BetterMonitor](https://thunderstore.io/c/lethal-company/p/fumiko/BetterMonitor) + Config
     - [Orbits](https://thunderstore.io/c/lethal-company/p/fiufki/Orbits) (Disabled)
 </details>
 
