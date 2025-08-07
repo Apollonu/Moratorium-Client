@@ -15,7 +15,7 @@
     - AdditionalNetworking - [2.2.2](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.2.2) -> [2.3.1](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/v/2.3.1)
     - ButteryFixes - [1.14.2](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/v/1.14.2) -> [1.14.7](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/v/1.14.7)
     - Chameleon - [2.1.2](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/v/2.1.2) -> [2.2.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/v/2.2.0)
-    - CruiserImproved - [1.5.0](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.0) -> [1.5.1](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.1)
+    - CruiserImproved - [1.5.0](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.0) -> [1.5.2](https://thunderstore.io/c/lethal-company/p/DiggC/CruiserImproved/v/1.5.2)
     - EnemySoundFixes - [1.8.0](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.0) -> [1.8.1](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/v/1.8.1)
     - EntranceTeleportOptimizations - [0.0.3](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.3) -> [0.0.5](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/v/0.0.5)
     - GeneralImprovements - [1.4.11](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/v/1.4.11) -> [1.4.13](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/v/1.4.13)
