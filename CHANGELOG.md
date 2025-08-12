@@ -12,7 +12,7 @@
   - Modpack
     - none
   - Mods
-    - none
+    - LethalPerformance - [1.1.7](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.1.7) -> [1.2.0](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/v/1.2.0)
   - Configs
     - none
   - Resourcepacks / Shaderpacks
